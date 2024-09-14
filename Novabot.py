@@ -32,3 +32,4 @@ async def on_message(message):
         await message.channel.send(message.content)
 
 client.run("MTI4NDI5ODMzNDgwMjI4MDQ3Mw.G0030N.Lm0PXB0obguaBnY0gKgMhwc5kdv3WeZEthTXDU")
+#Maestra el totem caduca o se cambia pero ese es el antiguo
